@@ -65,7 +65,7 @@
 			<!-- Producto 2 -->
 			<div class="item pij col-lg-3 col-md-4 col-6 col-sm">
 				<a href="/jkdtechnology/res/img/im2.jpg" class="fancylight popup-btn">
-					<img class="img-fluid" src="/jkdtechnologye/res/img/im2.jpg"
+					<img class="img-fluid" src="/jkdtechnology/res/img/im2.jpg"
 					alt="Notebook Gamer Acer">
 				</a>
 				<div class="image-details">
@@ -76,7 +76,7 @@
 			<!-- Producto 3 -->
 			<div class="item pij col-lg-3 col-md-4 col-6 col-sm">
 				<a href="/jkdtechnology/res/img/Notebook_240.jpg" class="fancylight popup-btn">
-					<img class="img-fluid" src="/jkdtechnologye/res/img/Notebook_240.jpg"
+					<img class="img-fluid" src="/jkdtechnology/res/img/Notebook_240.jpg"
 					alt="Notebook HP Ultraliviano">
 				</a>
 				<div class="image-details">

@@ -94,8 +94,8 @@ CREATE TABLE productos (
 INSERT INTO productos (nombre, categoria, precio, imagenUrl)
 VALUES
     ('Gamdias Mouse', 'Notebook y Accesorios', 66490, '/jkdtechnology/res/img/Gamdias.jpg'),
-    ('Notebook Gamer Acer', 'Notebook y Accesorios', 699990, '/jkdtechnologye/res/img/im2.jpg'),
-    ('Notebook HP Ultraliviano', 'Notebook y Accesorios', 279990, '/jkdtechnologye/res/img/Notebook_240.jpg'),
+    ('Notebook Gamer Acer', 'Notebook y Accesorios', 699990, '/jkdtechnology/res/img/im2.jpg'),
+    ('Notebook HP Ultraliviano', 'Notebook y Accesorios', 279990, '/jkdtechnology/res/img/Notebook_240.jpg'),
     ('Notebook Asus', 'Notebook y Accesorios', 429990, '/jkdtechnology/res/img/Notebook_Asus.jpg'),
     ('Gear Smart TV', 'Smart TV', 119990, '/jkdtechnology/res/img/Gear_Smart_TV.jpg'),
     ('Philips Smart TV', 'Smart TV', 182490, '/jkdtechnology/res/img/Philips_Smart_TV.jpg'),
