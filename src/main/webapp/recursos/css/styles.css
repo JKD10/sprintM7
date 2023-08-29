@@ -386,6 +386,22 @@ ul li {
 	margin-bottom: 5px;
 }
 
+#offer-carousel {
+  text-align: center;
+}
+
+#offer-carousel img {
+  max-width: 100%;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 40px; /* Ajusta el valor según la separación deseada */
+}
+
+#offer-carousel img:last-child {
+  margin-right: 0;
+}
+
+
 .boton-enviar {
   border-radius: 10px;
   background-color: #007bff; /* Cambia el color a tu preferencia */
@@ -411,6 +427,10 @@ ul li {
   background-color: #00ff00; /* Cambia el color a tu preferencia */
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
 }
+
+
+
+
 
 
 /* Media query para la carta */

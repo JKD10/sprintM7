@@ -13,6 +13,7 @@
 
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+	
 
 <!-- Hoja de estilo -->
 <link rel="stylesheet" type="text/css"
@@ -21,6 +22,15 @@
 <body>
 
 	<%@ include file="navbar.jsp"%>
+	
+	<!-- Ofertas -->
+	
+	<div id="offer-carousel" style="border: 5px; padding: 7px 15px;">
+	  <img src="/jkdtechnology/res/img/offer1.png" alt="Oferta 1">
+	  <img src="/jkdtechnology/res/img/offer2.png" alt="Oferta 2">
+	</div>
+	
+	
 
 	<!-- Galería de imágenes -->
 	<div class="gallery-container">
