@@ -24,12 +24,6 @@
 	}
 	%>
 
-	<!-- Contenedor del logotipo -->
-	<div class="logo-container mb-4">
-		<img src="/jkdtechnology/res/img/logo-jkdtechnology.png" alt="logo de la empresa"
-			style="max-width: 200px;">
-	</div>
-
 	<div class="contacto" style="display: flex; justify-content: center;">
 		<!-- Sección del formulario de inicio de sesión -->
 		<section class="form-login">
